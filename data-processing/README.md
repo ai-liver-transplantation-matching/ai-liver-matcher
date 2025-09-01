@@ -1,0 +1,2 @@
+Dataset used: https://www4.stat.ncsu.edu/~boos/var.select/pbc.html
+Citation: Fleming, T. R., & Harrington, D. P. (1991). Counting Processes and Survival Analysis. Wiley. The PBC data set is available on Terry Therneau's website.
